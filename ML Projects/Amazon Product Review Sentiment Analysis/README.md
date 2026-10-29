@@ -25,5 +25,3 @@ A machine learning project that uses Natural Language Processing (NLP) to classi
 | 4–5 stars | Positive |
 
 
-## Author
-**Nafis Noor Nabil** · [GitHub](https://github.com/NafisNoorNabil)
